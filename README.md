@@ -4,6 +4,7 @@
  I am pleased to submit the completed job assignment for REQ-2024-114 Software Engineer I. Thank you for this amazing opportunity to demonstrate my skills and capabilities.
 
  Sincerely,
+ 
  Cristian Huerta
 
  # Contact Me 
