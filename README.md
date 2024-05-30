@@ -19,7 +19,9 @@
  
  # To run and install the package
  CD PATH/TO/foo_parameterization
+ 
  pip install .
+ 
  foo_parameterization 100
 
 
