@@ -16,5 +16,5 @@ Follow these steps to install and set up the Foo Parameterization project.
    git clone https://github.com/chuerta018/Sphere.git
    cd Sphere
 
-2. **Read installation guide in [Here](foo_parameterization/README.md)**:
+2. **Read installation guide in README.md**:
    
