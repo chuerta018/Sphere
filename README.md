@@ -19,7 +19,7 @@
  pip install setuptools matplotlib numpy
  
  # To run and install the package
- CD PATH/TO/foo_parameterization
+ CD PATH/TO/Sphere
  
  pip install .
  
