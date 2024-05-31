@@ -17,7 +17,7 @@ setup(
                 "package was created for the job opening of REQ-2024-114 Software Engineer I.",
     author='Cristian Huerta',
     author_email='chuerta018@gmail.com',
-    url='https://github.com/chuerta018/SphereProject',
+    url='https://github.com/chuerta018/Sphere',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
