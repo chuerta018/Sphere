@@ -2,12 +2,13 @@
 
 Follow these steps to install and set up the Foo Parameterization project.
 
-## Prerequisites
+# Prerequisites
 
 - Python 3.6 or higher
 - pip (Python package installer)
+- Read README
 
-## Steps
+# Steps
 
 1. **Clone the repository**:
 
