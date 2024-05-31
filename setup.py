@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'foo-parameterization=foo_parameterization.visualizer:main',
+            'foo-parameterization=foo_parameterization.main:main',
         ],
     },
     install_requires=[
@@ -17,7 +17,7 @@ setup(
                 "package was created for the job opening of REQ-2024-114 Software Engineer I.",
     author='Cristian Huerta',
     author_email='chuerta018@gmail.com',
-    url='https://github.com/chuerta018/Sphere',
+    url='https://github.com/chuerta018/SphereProject',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
@@ -25,4 +25,5 @@ setup(
     ],
     python_requires='>=3.6',
 )
+
 

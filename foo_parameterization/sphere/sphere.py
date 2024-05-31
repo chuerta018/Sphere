@@ -1,5 +1,10 @@
 import math
+'''
+Here developers can implement additional modification to a sphere. I including a simple getter functions, to return the radius.
 
+The modifications are limitless, they could include adjusting radius by a percent, calling it adjust_radius_percent
+
+'''
 
 class Sphere:
 
