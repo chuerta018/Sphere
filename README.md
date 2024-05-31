@@ -67,9 +67,23 @@ python -m unittest discover -s foo_parameterization/tests
 
 ![image](https://github.com/chuerta018/Sphere/assets/73916959/16350a1e-f2f7-47ad-80a4-921800455db3)
 
+# Sample 4, running test 
+
+  Command Line: 
+  python -m unittest discover -s foo_parameterization/tests
+  
+  Output:
+![image](https://github.com/chuerta018/Sphere/assets/73916959/0d38b83c-d241-413a-b4ad-aa078e021136)
+
+
 
 
  Note: the radius is an arguement passed in by the user. 
+
+ # Addtional Documentation within Documentation 
+ This segment would help future developers, organize and explain the addtional features implemented within this package. 
+
+ There are comment blocks explaining each of the directorys, readme would remain an overview of the software package! :)
 
 
  # Please reach out to me , if you would like additional features implemented or if you would like to extend the project.
