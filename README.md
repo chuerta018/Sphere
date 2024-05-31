@@ -30,22 +30,44 @@
  # To uninstall the package
  pip uninstall foo_parameterization
 
- # Sample in execution with command lines:
+ # Running the Tests
+
+To run the tests, use the `unittest` module from the command line:
+
+python -m unittest discover -s foo_parameterization/tests
+
+# Example output 
+![image](https://github.com/chuerta018/Sphere/assets/73916959/c566ce4c-9032-4ddf-bb39-c891ce0cba55)
+
+
+ # Sample 1, Positive Radius, no visualizer:
 
  Command line: 
  foo-parameterization 100
 
  Output:
- ![image](https://github.com/chuerta018/Sphere/assets/73916959/d14bcf66-9828-40f2-942d-d2bccd356fdd)
+
+ ![image](https://github.com/chuerta018/Sphere/assets/73916959/a671b83a-b349-4f9e-89f9-89dd476aa4cf)
 
 
- # Sample 2 with negative number :
+
+ # Sample 2 with negative radius :
  
   Command line: 
   foo-parameterization -100
 
   Output:
 ![image](https://github.com/chuerta018/Sphere/assets/73916959/6f6a0ae1-075a-41f6-a012-c4264c041257)
+
+# Sample 3, Positive radius, Yes visualizer:
+
+  Command line: 
+  foo-parameterization 100 --visualize
+
+  Output:
+
+![image](https://github.com/chuerta018/Sphere/assets/73916959/16350a1e-f2f7-47ad-80a4-921800455db3)
+
 
 
  Note: the radius is an arguement passed in by the user. 
