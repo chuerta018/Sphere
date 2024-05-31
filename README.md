@@ -36,8 +36,7 @@ To run the tests, use the `unittest` module from the command line:
 
 python -m unittest discover -s foo_parameterization/tests
 
-# Example output 
-![image](https://github.com/chuerta018/Sphere/assets/73916959/c566ce4c-9032-4ddf-bb39-c891ce0cba55)
+# Examples below
 
 
  # Sample 1, Positive Radius, no visualizer:
