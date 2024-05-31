@@ -1,3 +1,8 @@
+""" 
+Users can import commands as shown with the visualizer into the software package.
+
+"""
+
 import argparse
 from foo_parameterization.sphere import Sphere
 from foo_parameterization.commands import visualize_sphere
